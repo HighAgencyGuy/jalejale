@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JaleJale Motors - React Website
 
 A modern, responsive car dealership website built with React and Tailwind CSS.
@@ -162,3 +163,6 @@ This project is licensed under the MIT License.
 ## Contact
 
 For questions or support, please contact the development team. 
+=======
+# jalejale
+>>>>>>> a3f4049a0921cff8be2267f43bca9f5e2019843a
