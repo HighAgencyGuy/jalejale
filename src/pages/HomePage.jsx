@@ -58,10 +58,10 @@ const HomePage = ({ onPageChange, onViewCarDetails }) => {
         <div className="absolute inset-0 flex items-center justify-center pointer-events-none z-10">
           <div className="text-center px-4 text-white pointer-events-auto w-full">
             <h1 className="text-4xl md:text-6xl font-bold mb-4">
-              Quality New and Used Cars in Abuja
+              Quality Cars in Abuja
             </h1>
             <p className="text-xl mb-8 max-w-2xl mx-auto">
-              Trusted by thousands of customers for reliable vehicles and exceptional service
+              Trusted by millions of customers for reliable vehicles and exceptional service
             </p>
             <div className="flex flex-col sm:flex-row justify-center gap-4">
               <button
@@ -91,7 +91,7 @@ const HomePage = ({ onPageChange, onViewCarDetails }) => {
               </h2>
               <p className="text-gray-700 mb-4">
                 Since 2017, we've been helping Abuja residents find quality used cars at affordable prices. 
-                Our commitment to transparency and customer satisfaction sets us apart.
+                Our commitment to transparency and customer satisfaction sets us apart. A trial will convince you of our worth
               </p>
               <ul className="space-y-2 mb-6">
                 <li className="flex items-start">
